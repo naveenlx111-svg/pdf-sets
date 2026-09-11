@@ -10,5 +10,6 @@ A collection of practical guides and unit notes.
 
 ## Unit Notes
 - DAA UNIT-I, UNIT-II
+- Unit-2 — Understanding Requirements
 - Unit 1, Unit III
 - Unit-3 — UML & Maven
